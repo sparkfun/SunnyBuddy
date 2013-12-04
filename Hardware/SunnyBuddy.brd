@@ -132,7 +132,7 @@
 <text x="12.7" y="22.479" size="1.778" layer="21" font="vector" ratio="15" align="bottom-center">JP1</text>
 <text x="18.288" y="30.48" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">JP2</text>
 <text x="82.55" y="-26.67" size="1.778" layer="25" font="vector" ratio="15" align="bottom-center">M. Hord</text>
-<text x="38.1" y="1.27" size="1.778" layer="16" font="vector" ratio="15" rot="MR0" align="bottom-center">v01</text>
+<text x="38.1" y="1.27" size="1.778" layer="16" font="vector" ratio="15" rot="MR0" align="bottom-center">v02</text>
 <text x="3.302" y="40.767" size="1.778" layer="21" font="vector" ratio="15">SOLAR IN</text>
 <text x="40.64" y="24.892" size="1.778" layer="21" font="vector" ratio="15" rot="R90">LOAD</text>
 <text x="36.957" y="17.399" size="1.778" layer="21" font="vector" ratio="15" rot="R90">LOAD</text>

@@ -18732,7 +18732,7 @@ and clear JP1.</text>
 shorted, the second power
 input is also shorted!
 You've been warned!</text>
-<text x="237.236" y="6.858" size="3.81" layer="94">v01</text>
+<text x="237.236" y="6.858" size="3.81" layer="94">v02</text>
 <text x="170.434" y="7.366" size="3.81" layer="94">M. Hord</text>
 </plain>
 <instances>
