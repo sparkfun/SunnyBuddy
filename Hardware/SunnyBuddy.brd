@@ -131,16 +131,20 @@
 <text x="26.67" y="1.27" size="2.54" layer="21" font="vector" ratio="15">Buddy</text>
 <text x="12.7" y="22.479" size="1.778" layer="21" font="vector" ratio="15" align="bottom-center">JP1</text>
 <text x="18.288" y="30.48" size="1.778" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">JP2</text>
-<text x="82.55" y="-26.67" size="1.778" layer="25" font="vector" ratio="15" align="bottom-center">M. Hord</text>
-<text x="38.1" y="1.27" size="1.778" layer="16" font="vector" ratio="15" rot="MR0" align="bottom-center">v02</text>
+<text x="82.55" y="-26.67" size="1.778" layer="51" font="vector" ratio="15" align="bottom-center">M. Hord</text>
+<text x="38.1" y="1.27" size="1.778" layer="16" font="vector" ratio="15" rot="MR0" align="bottom-center">v10</text>
 <text x="3.302" y="40.767" size="1.778" layer="21" font="vector" ratio="15">SOLAR IN</text>
 <text x="40.64" y="24.892" size="1.778" layer="21" font="vector" ratio="15" rot="R90">LOAD</text>
 <text x="36.957" y="17.399" size="1.778" layer="21" font="vector" ratio="15" rot="R90">LOAD</text>
 <text x="45.085" y="6.731" size="1.778" layer="21" font="vector" ratio="15" rot="R180">BATT</text>
-<text x="21.59" y="44.45" size="1.27" layer="21" font="vector" ratio="15" rot="R180" align="top-center">Single-cell LiPo MPPT charger</text>
+<text x="23.495" y="44.45" size="1.27" layer="21" font="vector" ratio="15" rot="R180" align="top-center">Single-cell LiPo MPPT charger</text>
 <text x="19.05" y="3.048" size="1.27" layer="21" font="vector" ratio="15" rot="R90" align="center-left">!CHG</text>
 <text x="16.51" y="3.048" size="1.27" layer="21" font="vector" ratio="15" rot="R90" align="center-left">!FAULT</text>
 <text x="13.97" y="3.048" size="1.27" layer="21" font="vector" ratio="15" rot="R90" align="center-left">GND</text>
+<text x="9.652" y="28.194" size="2.54" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">+</text>
+<text x="9.652" y="24.892" size="2.54" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">-</text>
+<text x="9.144" y="39.37" size="2.54" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">+</text>
+<text x="9.144" y="32.512" size="2.54" layer="21" font="vector" ratio="15" rot="R90" align="bottom-center">-</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -2047,15 +2051,15 @@ design rules under a new name.</description>
 <wire x1="15.494" y1="13.589" x2="16.129" y2="13.589" width="0.254" layer="16"/>
 <wire x1="16.129" y1="13.589" x2="16.51" y2="13.208" width="0.254" layer="16"/>
 <wire x1="16.51" y1="13.208" x2="16.51" y2="1.27" width="0.254" layer="16"/>
-<wire x1="24.13" y1="7.62" x2="24.13" y2="1.27" width="0.254" layer="16"/>
-<via x="24.13" y="1.27" extent="1-16" drill="0.508"/>
-<wire x1="24.13" y1="1.27" x2="21.59" y2="1.27" width="0.254" layer="1"/>
-<wire x1="21.59" y1="1.27" x2="20.32" y2="2.54" width="0.254" layer="1"/>
+<wire x1="23.622" y1="7.112" x2="23.622" y2="2.413" width="0.254" layer="16"/>
+<via x="23.622" y="2.413" extent="1-16" drill="0.508"/>
+<wire x1="23.622" y1="2.413" x2="20.447" y2="2.413" width="0.254" layer="1"/>
+<wire x1="20.447" y1="2.413" x2="20.32" y2="2.54" width="0.254" layer="1"/>
 <wire x1="20.32" y1="2.54" x2="17.78" y2="2.54" width="0.254" layer="1"/>
 <wire x1="17.78" y1="2.54" x2="16.51" y2="1.27" width="0.254" layer="1"/>
 <wire x1="30.9" y1="8.001" x2="29.21" y2="8.001" width="0.254" layer="1"/>
 <via x="29.21" y="8.001" extent="1-16" drill="0.508"/>
-<wire x1="24.13" y1="7.62" x2="24.511" y2="8.001" width="0.254" layer="16"/>
+<wire x1="23.622" y1="7.112" x2="24.511" y2="8.001" width="0.254" layer="16"/>
 <wire x1="24.511" y1="8.001" x2="29.21" y2="8.001" width="0.254" layer="16"/>
 </signal>
 <signal name="V_BATT">
