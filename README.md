@@ -1,6 +1,10 @@
 Sunny Buddy - MPPT Solar Charger
 ================================
 
+[![Sunny Buddy](https://cdn.sparkfun.com/assets/parts/8/7/1/3/12084-01.jpg)
+*Sunny Buddy (PRT-12084)*](https://www.sparkfun.com/products/12084)
+
+
 This is a maximum power point tracking solar charger for single-cell LiPo batteries. 
 
 Repository Contents
