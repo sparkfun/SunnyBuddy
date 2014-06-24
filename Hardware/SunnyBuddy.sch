@@ -19114,6 +19114,8 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <part name="R7" library="SparkFun-Electromechanical" deviceset="TRIMPOT" device="RES-09285" value="10k"/>
 <part name="JP4" library="SparkFun-Connectors" deviceset="M02" device="PTH" value="R_SEN"/>
 <part name="JP3" library="SparkFun-Passives" deviceset="JUMPER-PTH-2-NC" device=""/>
+<part name="LOGO3" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
+<part name="LOGO4" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".3_INCH"/>
 </parts>
 <sheets>
 <sheet>
@@ -19127,7 +19129,7 @@ input is also shorted!
 This may result in damage
 to your power source.
 You've been warned!</text>
-<text x="237.236" y="6.858" size="3.81" layer="94">v12</text>
+<text x="237.236" y="6.858" size="3.81" layer="94">v13</text>
 <text x="170.434" y="7.366" size="3.81" layer="94">M. Hord</text>
 <text x="167.894" y="147.828" size="1.778" layer="91">Cut the JP3 trace to
 measure output current.
@@ -19211,6 +19213,8 @@ adjust pot until V_SET = 2.8V.</text>
 <instance part="JP3" gate="G$1" x="182.88" y="139.7" smashed="yes">
 <attribute name="NAME" x="186.69" y="144.78" size="1.778" layer="95" rot="R180"/>
 </instance>
+<instance part="LOGO3" gate="G$1" x="175.26" y="48.26"/>
+<instance part="LOGO4" gate="G$1" x="190.5" y="35.56"/>
 </instances>
 <busses>
 </busses>
