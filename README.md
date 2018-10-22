@@ -20,6 +20,7 @@ Documentation
 
 Product Versions
 ----------------
+* [PRT-12885 ](https://www.sparkfun.com/products/12885 )- Version 1.3
 * [PRT-12084](https://www.sparkfun.com/products/12084)- Version 1.0
 
 Version History
