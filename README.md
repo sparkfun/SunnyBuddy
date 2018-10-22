@@ -3,7 +3,7 @@ Sunny Buddy - MPPT Solar Charger
 
 ![Sunny Buddy](https://cdn.sparkfun.com//assets/parts/9/7/7/2/12885-01.jpg)
 
-*Sunny Buddy (PRT-12885)*](https://www.sparkfun.com/products/12885)
+[*Sunny Buddy (PRT-12885)*](https://www.sparkfun.com/products/12885)
 
 This is a maximum power point tracking solar charger for single-cell LiPo batteries. 
 
@@ -12,6 +12,11 @@ Repository Contents
 * **/Fritzing** - Fritzing Example wiring images
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
+
+
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sunny-buddy-solar-charger-v13-hookup-guide)** - Basic hookup guide for the Sunny Buddy.
 
 Product Versions
 ----------------
